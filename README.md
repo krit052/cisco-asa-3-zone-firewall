@@ -1,8 +1,8 @@
 # Cisco ASA 3-Zone Firewall 
 
-> Cisco ASA 5506-X firewall lab with Inside / DMZ / Outside zones, DHCP, NAT and ACL policies — built in Cisco Packet Tracer
+> Cisco ASA 5506-X firewall  with Inside / DMZ / Outside zones, DHCP, NAT and ACL policies — built in Cisco Packet Tracer
 
-แลบตั้งค่า Cisco ASA 5506-X แบ่งเครือข่ายเป็น 3 โซน (Inside, DMZ, Outside) พร้อม DHCP, NAT และ Firewall Policy ด้วย Access Control List (ACL) จำลองบน **Cisco Packet Tracer** (ดัดแปลงจากใบงานต้นฉบับที่ใช้ GNS3 + ASAv)
+ตั้งค่า Cisco ASA 5506-X แบ่งเครือข่ายเป็น 3 โซน (Inside, DMZ, Outside) พร้อม DHCP, NAT และ Firewall Policy ด้วย Access Control List (ACL) จำลองบน **Cisco Packet Tracer** (ดัดแปลงจากใบงานต้นฉบับที่ใช้ GNS3 + ASAv)
 
 ![Topology](images/topology.png)
 
