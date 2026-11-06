@@ -1,4 +1,4 @@
-# Cisco ASA 3-Zone Firewall Lab
+# Cisco ASA 3-Zone Firewall 
 
 > Cisco ASA 5506-X firewall lab with Inside / DMZ / Outside zones, DHCP, NAT and ACL policies — built in Cisco Packet Tracer
 
